@@ -1,5 +1,3 @@
-
-
 texto=input("Ingrese el texto a manipular: ")
 print(texto.upper())
 print(texto.lower())
